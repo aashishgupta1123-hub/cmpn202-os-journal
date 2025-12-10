@@ -1,7 +1,7 @@
 # CMPN202 Operating Systems Coursework – Technical Journal
 
 **Student ID:** A00016277  
-**Name:** Aashish Kalwar
+**Name:** Aashish Gupta
 **Module:** CMPN202 Operating Systems  
 
 ## Project Overview
